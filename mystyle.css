@@ -1,3 +1,9 @@
 body {
-  background-color: blue;
+  background-image: url("/imagens/pexels-francesco-ungaro-11570439.jpg");
+  background-color: #cccccc;
+  height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover; /* Resize the background image to cover the entire container */
+  position: relative;
 }
